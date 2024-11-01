@@ -12,6 +12,8 @@ This is a simple clicker and text bot that clicks on a specified spot on the scr
 
 Run the code with:
 
-python3 -m venv myenv         
+python3 -m venv myenv
+<br/>
 source myenv/bin/activate
+<br/>
 python clicker_bot.py          
