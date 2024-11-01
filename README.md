@@ -5,13 +5,12 @@ This is a simple clicker and text bot that clicks on a specified spot on the scr
 ## Requirements
 
 - Python 3.x
-- `pyautogui` library
 
 ## Installation
 
 1. Install Python 3.x if you haven't already.
-2. Install the required libraries:
 
+Run the code with:
 
 python3 -m venv myenv         
 source myenv/bin/activate
