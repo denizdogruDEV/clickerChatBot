@@ -1,0 +1,3 @@
+([('clicker_bot',
+   '/Users/tr-iz130101/Desktop/OSF-Projects/allaiBOT/clicker_bot/dist/clicker_bot',
+   'EXECUTABLE')],)
