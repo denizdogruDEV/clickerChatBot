@@ -1,6 +1,6 @@
 # Clicker Bot
 
-This is a simple clicker and text bot that clicks on a specified spot on the screen every 30 seconds and sends a message at a randomized interval between 5 to 20 minutes.
+This is a simple clicker and text bot that clicks on a specified spot on the screen every 30 seconds and sends a message at a randomized interval between 1 to 12.5 minutes.
 
 ## Requirements
 
